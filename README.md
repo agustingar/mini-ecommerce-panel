@@ -277,16 +277,16 @@ try {
 
 ## ⏱️ Tiempo de Desarrollo
 
-**Tiempo total dedicado**: Aproximadamente 4-5 horas
+**Tiempo total dedicado**: Aproximadamente 3-4 horas
 
 ### Desglose por fases:
-1. **Configuración inicial** (0.5h): Setup de proyecto, dependencias
+1. **Configuración inicial** (0.25h): Setup de proyecto, dependencias
 2. **Arquitectura** (0.5h): Diseño de tipos, store, estructura
 3. **Componentes base** (1h): Styled components, sistema de diseño
 4. **Lógica de negocio** (1h): Redux slices, servicios, hooks
 5. **Componentes UI** (1h): ProductCard, ProductGrid, Filters
-6. **Integración** (1h): App principal, conectar componentes
-7. **Testing y refinamiento** (0.5h): Pruebas, ajustes finales
+6. **Integración** (0.5h): App principal, conectar componentes
+7. **Testing y refinamiento** (0.25h): Pruebas, ajustes finales
 
 
 
